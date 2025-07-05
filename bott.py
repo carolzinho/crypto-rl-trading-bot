@@ -14,8 +14,8 @@ from stable_baselines3 import PPO
 import matplotlib.pyplot as plt
 
 # configurações iniciais
-CHAVE_API_ALPACA = "PK7R6H4AP485UYTHD387"
-CHAVE_SECRETA_ALPACA = "0xU7xZyusp4rbaM7D4GWHgsAhvgvgRh7sDFd7ubU"
+CHAVE_API_ALPACA = ""
+CHAVE_SECRETA_ALPACA = ""
 capital_inicial = 10000
 risco_por_trade = 0.01
 

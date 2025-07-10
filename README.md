@@ -4,24 +4,24 @@ Este projeto é um simulador inteligente de trading de criptomoedas, desenvolvid
 
 # Features
 
--Coleta de dados reais de mercado via Alpaca API
--Cálculo automático de indicadores técnicos com ta **indicadores técnicos com valores de parâmetros padrão 
--Treinamento de agente PPO com Stable Baselines3 e ambiente Gym
--Métricas de performance: retorno, Sharpe ratio, drawdown
--Visualização com Streamlit e Matplotlib
+- Coleta de dados reais de mercado via Alpaca API
+- Cálculo automático de indicadores técnicos com ta **indicadores técnicos com valores de parâmetros padrão 
+- Treinamento de agente PPO com Stable Baselines3 e ambiente Gym
+- Métricas de performance: retorno, Sharpe ratio, drawdown
+- Visualização com Streamlit e Matplotlib
 
 # Tecnologias utilizadas
-Dados de mercado: alpaca-py
-Análise técnica: ta
-Bibliotecas de RL: gymnasium e stable-baselines3
-Visualização: matplotlib, streamlit
-Pré-processamento de dados: pandas, numpy, sklearn
+- Dados de mercado: alpaca-py
+- Análise técnica: ta
+- Bibliotecas de RL: gymnasium e stable-baselines3
+- Visualização: matplotlib, streamlit
+- Pré-processamento de dados: pandas, numpy, sklearn
 
 # Estrutura do Projeto
-bott.py # main coe com coleta, treinamento e visualização
-modelo_ppo_resultados.zip # modelo PPO treinado com resultados 
-requirements.txt # dependências necessárias
-README.md # esse arquivo
+- bott.py # main coe com coleta, treinamento e visualização
+- modelo_ppo_resultados.zip # modelo PPO treinado com resultados 
+- requirements.txt # dependências necessárias
+- README.md # esse arquivo
 
 # Como executar localmente
 

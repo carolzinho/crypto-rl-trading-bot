@@ -1,4 +1,4 @@
-# Crypto RL Trading Bot with PPO & Streamlit using Alpaca API 
+# Bot de Trading Crypto RL com PPO & Streamlit usando Alpaca API 
 
 Este projeto é um bot inteligente de trading de criptomoedas, desenvolvido com aprendizado de máquina por reforço profundo PPO e visualização interativa em Streamlit. Ele visa explorar como modelos de IA podem aprender estratégias de compra e venda utilizando indicadores técnicos reais e métricas quantitativas.
 

@@ -28,42 +28,6 @@ Este projeto é um bot inteligente de trading de criptomoedas, desenvolvido com 
 ```bash
 git clone git clone https://github.com/carolzinho/crypto-rl-trading-bot.git
 
-cd crypto-rl-trading-bot
-
 pip install -r requirements.txt
 
 streamlit run bott.py
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-cd crypto-rl-trading-bot
-
-pip install -r requirements.txt
-
-streamlit run bott.py
-
-
-
-
-
-
-
-
-
-
-
-
-
-
